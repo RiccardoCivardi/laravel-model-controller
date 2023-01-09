@@ -1,0 +1,27 @@
+@import '~bootstrap/scss/bootstrap';
+
+body {
+    background-color: rgb(204, 186, 162);
+}
+
+ul {
+    list-style: none;
+}
+
+ul li {
+    padding: 0 30px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: blue;
+}
+
+.active {
+    color: blue;
+    text-decoration: underline;
+}
